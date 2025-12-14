@@ -3,9 +3,7 @@
 <h1 align="center">Hi 👋, I'm Kunal Kapadi</h1>
 <h3 align="center">Software Developer | Java & Full‑Stack Enthusiast</h3>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder/profile.png" width="200" style="border-radius:50%" />
-</p>
+
 
 ---
 
@@ -15,7 +13,7 @@
 - 🌱 Currently focusing on **Java, Spring Boot, REST APIs & Full‑Stack Development**  
 - 🎓 **PG‑DAC (CDAC) Graduate**  
 - 🔍 Interested in **problem solving, scalable systems & clean code**  
-- 📫 Reach me at **kunalk0089@gmail.com**
+- 📫 Reach me at **kunalkapadi00@gmail.com**
 
 ---
 
